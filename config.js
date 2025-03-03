@@ -5,12 +5,12 @@ module.exports = {
     sendWelcomeMessage: true,
     blackList: [],
     whiteList: [],
-    ownerNumber: '94741472009',
+    ownerNumber: '93785293400',
     userTimezone: 'Asia/Colombo',
     mongoUrl: 'mongodb+srv://Podi:Podi@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     dbName: 'Podi', // Replace with your database name
     botDetails: {
-        botName: 'ꪶ ɪⴕ "ᴢ ᴍᴇ 𝐌ᴷ̶ꜰ | ꜱᴜᴛɪ ꜱᴀꜱɪ ℘ 💀📍',
+        botName: '𝐍𝐚𝐢𝐥 𝐇𝐚𝐤💋💀📍',
         botAge: '19+',
         botLocation: 'Negombo',
         fenixSaveName: '𝐍ɑ͢ɱꪸ𝛆'
